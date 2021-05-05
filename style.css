@@ -1,0 +1,134 @@
+body {
+
+    background-color: rgb(207, 207, 207);
+
+
+}
+
+#ola {
+    color: blue;
+    width: 275px;
+    text-align: center;
+    width: 300px;
+    padding-left: 500px;
+    font-size: 30px;
+    text-transform: uppercase;
+
+}
+    
+    #respostascertas {
+
+        color: black;
+        width: 275px;
+        float: left;
+        text-align: center;
+        width: 49%;
+        font-size: 30px;
+        text-transform: uppercase;
+        border: 1px solid #000;
+
+    
+    }
+    
+    #respostaserradas {
+    
+        color: black;
+        width: 275px;
+        float: right;
+        text-align: center;
+        width: 49%;
+        font-size: 30px;
+        text-transform: uppercase;
+        border: 1px solid #000;
+    
+    }
+    
+    #correta1 {
+    
+        color: green;
+        float: left;
+        text-align: center;
+        width: 275px;
+        border-top: 2px solid #0088dd;
+        text-align: center;
+        width: 300px;
+        padding: 50px;
+        height: 100px;
+    
+    
+    
+    
+    }
+    
+    
+    
+    #incorreta1 {
+    
+        color: red;
+        float: right;
+        width: 275px;
+        text-align: center;
+        width: 300px;
+        height: 100px;
+        position: absolute;
+        margin-left: 800px;
+        margin-top: -343px;
+    }
+    
+    
+    
+    
+    
+    #correta2 {
+    
+        color: green;
+        width: 275px;
+        text-align: center;
+        width: 300px;
+        padding: 50px;
+        height: 100px;
+    }
+    
+    #incorreta2 {
+    
+        color: red;
+        width: 275px;
+        text-align: center;
+        width: 300px;
+        padding: 50px;
+        height: 100px;
+        float: right;
+        position: absolute;
+        margin-left: 800px;
+        margin-top: -243px;
+    
+    }
+    
+    
+    
+    
+    #correta3 {
+    
+        color: green;
+        width: 275px;
+        text-align: center;
+        width: 300px;
+        padding: 50px;
+        height: 100px;
+    
+    }
+    
+    #incorreta3 {
+    
+        color: red;
+        width: 275px;
+        text-align: center;
+        width: 300px;
+        padding: 50px;
+        height: 100px;
+        float: right;
+        position: absolute;
+        margin-left: 800px;
+        margin-top: -143px;
+    
+    }
