@@ -12,7 +12,6 @@
 
 /*Caso ele queira, seguirá para a próxima etapa, descrita no item*/
 
-   //condição sim, se o usuário desejar continuar:
 
 if ( choice == 1) {
 
